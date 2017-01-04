@@ -15,7 +15,9 @@ Papers regarding topics of path finding, tree spanning, etc.
 
 ### Further Readings
 
-- 
+- [CCG Parsing (Lee, Lewis, Zettlemoyer 2016)](CCGParsing.pdf)
+- [Jump Point Search (Harabor, Grastien 2011)](OnlineGraphPruningForPathfindingOnGridMaps.pdf)
+- [A* Parsing (Klein, Manning 2003)](AStarParsing.pdf)
 
 ## Thoughts and Reflection
 
