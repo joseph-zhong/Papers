@@ -4,7 +4,7 @@ As time permits, I will actively organize, summarize, review and reflect each pa
 
 ## Overview 
 
-- [clustering](clustering): Things generally related to Unsupervised Learning, (KNN, KMeans, EM, ...)
+- [clustering](clustering): Things generally related to clustering (KNN, KMeans, EM, ...)
 - [deeplearning](deeplearning): All Neural Networks -- will be more specific in the future
 - [gpu](gpu): All GPU Programming related
 - [reinforcement](reinforcement): Things generally related to Reinforcement Learning
