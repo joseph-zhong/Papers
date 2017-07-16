@@ -9,6 +9,21 @@
 - Results: VOC2012
   - MeanIU: 62.2
 
+## Training
+
+- Optimization: SGD w/ Momentum
+  - Momentum = 0.9
+  - Weight Decay of $5^{-4}$ or $2^{-4}$
+  - Learning rate: $10^{-3}, 10^{-4}, 10^{-5}$ for AlexNet, VGG16, GoogLeNet 
+  - Doubled learning rate for biases
+- Mini-batch size: 20 images
+- Fine Tuning: 
+  - Full Back-propagation
+
+## Refinement
+
+- Reduce striding in pooling layers in Base VGG CNN
+
 ## Structure
 
 ```

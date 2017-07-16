@@ -1,6 +1,6 @@
 # Detection/Segmentation Notes
 
-- 15 July 2017
+- July 2017
 - Xevo Summer
 
 ## Papers to Review
@@ -22,7 +22,7 @@
 ### Semantic Segmentation
 
 - [ ] Deconvolution Networks (May 2015)
-- [x] FCN (May 2016)
+- [x] [FCN (May 2016)](FCN)
 - [ ] DeepMask (Jun. 2015)
 - [ ] SharpMask (Mar. 2016)
 - [ ] MaskRCNN (Apr. 2017)
@@ -30,6 +30,7 @@
 - [ ] DeepLab (June 2016)
 - [ ] Adelaide (Apr. 2015)
 - [ ] Deep Parsing Network (Sept. 2015)
+- [ ] Atrous Convolutions (Jun. 2017)
 
 ## Reviews
 
@@ -45,4 +46,4 @@
 #### Structure 
 
 - [`FCN.md`](Review/FCN.md)
-
+- [`DeconvolutionNetworks.md`](Review/DeconvolutionNetworks.md)
