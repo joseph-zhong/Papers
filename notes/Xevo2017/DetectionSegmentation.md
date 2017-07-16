@@ -22,7 +22,7 @@
 ### Semantic Segmentation
 
 - [ ] Deconvolution Networks (May 2015)
-- [x] [FCN (May 2016)](FCN)
+- [x] [FCN (May 2016)](#fcn)
 - [ ] DeepMask (Jun. 2015)
 - [ ] SharpMask (Mar. 2016)
 - [ ] MaskRCNN (Apr. 2017)
