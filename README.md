@@ -4,6 +4,7 @@ As time permits, I will actively organize, summarize, review and reflect each pa
 
 ## Overview 
 
+- [current](current): Current work, taking notes, reading, studying...
 - [clustering](clustering): Things generally related to clustering (KNN, KMeans, EM, ...)
 - [deeplearning](deeplearning): All Neural Networks -- will be more specific in the future
 - [gpu](gpu): All GPU Programming related
@@ -20,3 +21,4 @@ As time permits, I will actively organize, summarize, review and reflect each pa
 
 - Split Deep Learning section into types of NNs
 - Have Notes be per-directory, per-paper
+
