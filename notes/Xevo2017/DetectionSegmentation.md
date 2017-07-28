@@ -8,12 +8,17 @@
 ### General
 
 - [ ] SqueezeNet (Feb. 2016)
-- [ ] MobileNet (Jun. 2017)
+- [ ] MobileNet (Jun. 2017) 
+- [ ] ShuffleNet (Jun. 2017)
 - [ ] ResNet (Dec. 2015)
+- [ ] Batch Normalization (Mar. 2015) (In Progress...)
+- [ ] DeepSpeech (Dec. 2014)
 
 ### Object Detection
 
 - [ ] SSD (Dec. 2016) 
+- [ ] YoloNet (Dec. 2015) (In Progress...)
+- [ ] Yolo9000 (Dec. 2016) (In Progress...)
 - [ ] RCNN (Nov. 2013)
 - [ ] Fast RCNN (Sept. 2015)
 - [ ] Faster RCNN (Jan. 2016)
@@ -21,29 +26,15 @@
 
 ### Semantic Segmentation
 
-- [ ] Deconvolution Networks (May 2015)
-- [x] [FCN (May 2016)](#fcn)
+- [x] [Deconvolution Networks (May 2015)](Review/DeconvolutionNetworks.md) 
+- [x] [FCN (May 2016)](Review/FCN.md)
 - [ ] DeepMask (Jun. 2015)
 - [ ] SharpMask (Mar. 2016)
 - [ ] MaskRCNN (Apr. 2017)
 - [ ] BoxSup (May 2015)
-- [ ] DeepLab (June 2016)
+- [ ] [DeepLab (June 2016)](#Review/DeepLab) (In Progress...)
 - [ ] Adelaide (Apr. 2015)
 - [ ] Deep Parsing Network (Sept. 2015)
 - [ ] Atrous Convolutions (Jun. 2017)
+- [ ] BFCN (Dec. 2016)
 
-## Reviews
-
-### FCN
-
-- Paper: https://arxiv.org/pdf/1605.06211.pdf
-- Fully Convolution Networks without Unpooling and upsampling earlier improves accuracy
-- Structure: 
-  - Convolution/Pool layers -> Conv1x1 -> Deconv 
-- Results: VOC2012
-  - MeanIU: 62.2
-
-#### Structure 
-
-- [`FCN.md`](Review/FCN.md)
-- [`DeconvolutionNetworks.md`](Review/DeconvolutionNetworks.md)
