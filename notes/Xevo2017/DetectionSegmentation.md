@@ -16,13 +16,14 @@
 
 ### Object Detection
 
-- [ ] SSD (Dec. 2016) 
+- [ ] SSD (Dec. 2015) 
 - [ ] YoloNet (Dec. 2015) (In Progress...)
 - [ ] Yolo9000 (Dec. 2016) (In Progress...)
 - [ ] RCNN (Nov. 2013)
 - [ ] Fast RCNN (Sept. 2015)
 - [ ] Faster RCNN (Jan. 2016)
 - [ ] R-FCN (May 2016)
+- [ ] Online Hard Example Mining (Apr. 2016)
 
 ### Semantic Segmentation
 
@@ -37,4 +38,3 @@
 - [ ] Deep Parsing Network (Sept. 2015)
 - [ ] Atrous Convolutions (Jun. 2017)
 - [ ] BFCN (Dec. 2016)
-
